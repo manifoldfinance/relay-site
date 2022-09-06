@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "water.css": "^2.1.1"
+  },
+  "devDependencies": {
+    "node-fetch": "^3.2.10",
+    "windicss": "^3.5.6"
   }
 }
